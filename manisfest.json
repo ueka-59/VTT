@@ -1,0 +1,16 @@
+{
+  "name": "Ultimate VTT v18",
+  "short_name": "VTT",
+  "description": "Mon outil de Table de Jeu Virtuelle",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#3498db",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3412/3412953.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
